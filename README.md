@@ -1,0 +1,2 @@
+# Lottery
+First Solidity Project
