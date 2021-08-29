@@ -33,7 +33,7 @@ function pickWinner() public restricted {
     uint index = random() % players.length;  
     players[index].transfer(this.balance); //take money out of the contract and send to the winner
     players = new address[](0);
-    git 
+    
     }
     
     
